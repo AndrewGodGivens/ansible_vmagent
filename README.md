@@ -1,3 +1,7 @@
+## Credits
+
+Based on the role by [sorrowless](https://github.com/sorrowless).
+
 # ageres210784/vmagent
 
 An Ansible role which installs and configures [vmagent] on Linux
